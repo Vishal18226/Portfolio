@@ -12,6 +12,7 @@
       padding: 0;
       box-sizing: border-box;
     }
+
     body {
       font-family: Arial, sans-serif;
       line-height: 1.6;
@@ -179,7 +180,7 @@
     <section id="contact">
       <h2>Contact Me</h2>
       <p>You can reach me at:</p>
-      <p>Email: <a href="mailto:vishal123@gmail.com">vishal123@gmail.com</a></p>
+      <p>Email: <a href="mailto:vkvinoth9650@gmail.com">vkvinoth9650@gmail.com</a></p>
     </section>
   </div>
 
